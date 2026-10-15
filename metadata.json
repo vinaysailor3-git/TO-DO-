@@ -1,0 +1,6 @@
+{
+  "name": "Sahayak AI",
+  "description": "एक बहुउद्देशीय आधुनिक वेब ऐप्लिकेशन - आपकी पसंद और ज़रूरत के अनुसार।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
